@@ -38,16 +38,16 @@ To run this project, you need Python 3.x
 
 1. **Clone the repository**
 
-   ```bash
-   git clone [https://github.com/marinaleft/IUE-spectral-analysis.git](https://github.com/marinaleft/IUE-spectral-analysis.git)
-   ```
+```bash
+git clone [https://github.com/marinaleft/IUE-spectral-analysis.git](https://github.com/marinaleft/IUE-spectral-analysis.git)
+```
 
 2. **Install dependencies**
 
-   ```bash
-   pip install -r requirements.txt
-   ```
+```bash
+pip install -r requirements.txt
+```
 
 3. **Data Preparation**
-   * Option A (manual): Extract the provided `.zip` file into the `data/` folder.
-   * Option B (code): Run the download notebook (ensure you have an internet connection to reach the INES database). This option may take more than one hour.
+* Option A (manual): Extract the provided `.zip` file into the `data/` folder.
+* Option B (code): Run the download notebook (ensure you have an internet connection to reach the INES database). This option may take more than one hour.
