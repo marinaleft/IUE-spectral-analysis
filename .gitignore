@@ -1,0 +1,9 @@
+# Entornos y configuración de editor
+.vscode/
+.idea/
+
+# Temporales de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
